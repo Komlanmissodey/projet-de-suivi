@@ -1,0 +1,689 @@
+
+.menu_logo {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 20px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+ul li a {
+    color: #163269;
+    text-decoration: none;
+}
+
+ul li {
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+ul li a:hover {
+    color: rgb(65, 200, 133);
+}
+
+ul li:first-child a {
+     color: rgb(65, 200, 133);
+}
+.logo {
+        width: 12%;
+    }
+    .banner {
+        background-image: linear-gradient(#bdaeae25 20%, rgba(0, 60, 255, 0.267) 50%) , url(./Asset/image/about-title-bg.jpg);
+        
+        height: 1000px;
+        background-size: cover;
+    }
+    .banner h1 {
+        color:#FFF;
+        font-size: 5vw;
+        font-family: roboto-thin;
+        font-weight: 700;
+        margin-left: 35px ;
+         padding-top: 40%;
+         font-size: 80px;
+         line-height: 96px;
+    }
+
+ 
+  .list-parent {
+        position: absolute;
+        top: 27.5px;
+        left: 37px;
+        width: 1563px;
+        height: 70.7px;
+  }
+  .header {
+        position: absolute;
+        width: 100%;
+        top: 0px;
+        right: 0px;
+        left: 0px;
+        box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.1);
+        background-color: rgba(255, 255, 255, 0);
+        height: 134.4px;
+        text-align: left;
+  }
+  .introduire-les-enfants {
+        margin: 0;
+  }
+  .introduire-les-enfants-container1 {
+        width: 100%;
+  }
+  .introduire-les-enfants-container {
+        position: absolute;
+        top: 0px;
+        left: calc(50% - 169.67px);
+        line-height: 32.55px;
+        display: flex;
+        align-items: center;
+        width: 339.5px;
+        height: 130.2px;
+  }
+  .heading-3 {
+        position: absolute;
+        width: calc(100% - 56px);
+        top: 216.22px;
+        right: 28px;
+        left: 28px;
+        height: 131px;
+  }
+  .en-savoir-plus {
+        position: absolute;
+        top: 7.62px;
+        left: calc(50% - 49.65px);
+        line-height: 21.76px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 99.5px;
+        height: 21.8px;
+  }
+  .link {
+        position: absolute;
+        top: 367.19px;
+        left: calc(50% - 65.67px);
+        border-radius: 320px;
+        background-color: #41c885;
+        width: 131.3px;
+        height: 37.8px;
+        font-size: 12.5px;
+        color: #fff;
+  }
+  .menu-search-line-icon {
+        position: absolute;
+        top: 98.08px;
+        left: 165px;
+        width: 64px;
+        height: 64px;
+        overflow: hidden;
+  }
+  .backgroundshadow {
+        position: absolute;
+        height: calc(100% - 64px);
+        top: 32px;
+        bottom: 32px;
+        left: calc(50% - 610px);
+        box-shadow: 0px 0px 16px rgba(131, 131, 131, 0.5);
+        border-radius: 16px;
+        background-color: #fff;
+        width: 396px;
+  }
+  .doter-les-enfants-container {
+        position: absolute;
+        top: 0px;
+        left: calc(50% - 146.53px);
+        line-height: 32.55px;
+        display: flex;
+        align-items: center;
+        width: 293.3px;
+        height: 130.2px;
+  }
+  .heading-31 {
+        position: absolute;
+        width: calc(100% - 56px);
+        top: 212.22px;
+        right: 28px;
+        left: 28px;
+        height: 131px;
+  }
+  .link1 {
+        position: absolute;
+        top: 363.19px;
+        left: calc(50% - 65.67px);
+        border-radius: 320px;
+        background-color: #41c885;
+        width: 131.3px;
+        height: 37.8px;
+        font-size: 12.5px;
+        color: #fff;
+  }
+  .globe-line-icon {
+        position: absolute;
+        top: 95.08px;
+        left: 166px;
+        width: 64px;
+        height: 64px;
+        overflow: hidden;
+  }
+  .backgroundshadow1 {
+        position: absolute;
+        height: calc(100% - 64px);
+        top: 32px;
+        bottom: 32px;
+        left: calc(50% - 198px);
+        box-shadow: 0px 0px 16px rgba(131, 131, 131, 0.5);
+        border-radius: 16px;
+        background-color: #fff;
+        width: 396px;
+  }
+  .dvelopper-les-facults-container {
+        position: absolute;
+        top: 0px;
+        left: calc(50% - 147.17px);
+        line-height: 32.55px;
+        display: flex;
+        align-items: center;
+        width: 294.5px;
+        height: 130.2px;
+  }
+  .heading-32 {
+        position: absolute;
+        width: calc(100% - 56px);
+        top: 214.22px;
+        right: 28px;
+        left: 28px;
+        height: 131px;
+  }
+  .link2 {
+        position: absolute;
+        top: 365.19px;
+        left: calc(50% - 65.67px);
+        border-radius: 320px;
+        background-color: #41c885;
+        width: 131.3px;
+        height: 37.8px;
+        font-size: 12.5px;
+        color: #fff;
+  }
+  .contacts-line-icon {
+        position: absolute;
+        top: 96.08px;
+        left: 170px;
+        width: 64px;
+        height: 64px;
+        overflow: hidden;
+  }
+  .backgroundshadow2 {
+        position: absolute;
+        height: calc(100% - 64px);
+        top: 32px;
+        bottom: 32px;
+        left: calc(50% + 214px);
+        box-shadow: 0px 0px 16px rgba(131, 131, 131, 0.5);
+        border-radius: 16px;
+        background-color: #fff;
+        width: 396px;
+  }
+  .container1 {
+        position: absolute;
+        top: 1083px;
+        left: calc(50% - 680px);
+        width: 1360px;
+        height: 514.9px;
+        color: #192f59;
+  }
+  .background1 {
+        position: absolute;
+        height: calc(100% - 2374.3px);
+        width: 100%;
+        top: 1634.94px;
+        right: 0%;
+        bottom: 739.36px;
+        left: 0%;
+        background-color: #10465c;
+        overflow: hidden;
+  }
+  .veiller-le-gnie-container {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        line-height: 48px;
+        display: flex;
+        align-items: center;
+        width: 314.5px;
+        height: 144px;
+  }
+  .heading-33 {
+        position: absolute;
+        width: calc(100% - 125.7px);
+        top: 0px;
+        right: 105.7px;
+        left: 20px;
+        height: 144px;
+  }
+  .notre-mission-est-container {
+        position: absolute;
+        top: 168.88px;
+        left: 20px;
+        font-size: 16px;
+        line-height: 27.2px;
+        color: #fff;
+        display: flex;
+        align-items: center;
+        width: 385.1px;
+        height: 108.8px;
+  }
+  .container3 {
+        position: absolute;
+        top: 0px;
+        left: calc(50% - 660px);
+        width: 440px;
+        height: 327.8px;
+  }
+  .explorer-les-nouvelles-container {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        line-height: 48px;
+        display: flex;
+        align-items: center;
+        width: 267px;
+        height: 144px;
+  }
+  .heading-34 {
+        position: absolute;
+        width: calc(100% - 40px);
+        top: 0px;
+        right: 20px;
+        left: 20px;
+        height: 144px;
+  }
+  .imaginez-un-togo-container {
+        position: absolute;
+        top: 168.88px;
+        left: 20px;
+        font-size: 16px;
+        line-height: 27.2px;
+        color: #fff;
+        display: flex;
+        align-items: center;
+        width: 371.1px;
+        height: 108.8px;
+  }
+  .container4 {
+        position: absolute;
+        top: 0px;
+        left: calc(50% - 220.02px);
+        width: 440px;
+        height: 327.8px;
+  }
+  .conqurir-le-futur-container {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        line-height: 48px;
+        display: flex;
+        align-items: center;
+        width: 247.6px;
+        height: 144px;
+  }
+  .face-un-container {
+        position: absolute;
+        top: 168.88px;
+        left: 20px;
+        font-size: 16px;
+        line-height: 27.2px;
+        color: #fff;
+        display: flex;
+        align-items: center;
+        width: 387.4px;
+        height: 108.8px;
+  }
+  .container5 {
+        position: absolute;
+        top: 0px;
+        left: calc(50% + 219.97px);
+        width: 440px;
+        height: 327.8px;
+  }
+  .container2 {
+        position: absolute;
+        top: 1724.94px;
+        left: calc(50% - 680px);
+        width: 1360px;
+        height: 327.8px;
+        text-align: left;
+        font-size: 40px;
+        color: #41c885;
+  }
+  .heading-36 {
+        position: absolute;
+        top: 225px;
+        left: calc(50% - 83.3px);
+        line-height: 32.55px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 166.8px;
+        height: 32.5px;
+  }
+  .link3 {
+        position: absolute;
+        top: 277.55px;
+        left: calc(50% - 65.67px);
+        border-radius: 320px;
+        background-color: #41c885;
+        width: 131.3px;
+        height: 37.8px;
+        font-size: 12.5px;
+  }
+  .vector-icon {
+        position: absolute;
+        height: 13.59%;
+        width: 24.24%;
+        top: 26.72%;
+        right: 37.88%;
+        bottom: 59.7%;
+        left: 37.88%;
+        max-width: 100%;
+        overflow: hidden;
+        max-height: 100%;
+  }
+  .filesearchoutlined {
+        position: absolute;
+        top: 105.39px;
+        left: 108px;
+        width: 14px;
+        height: 14px;
+        overflow: hidden;
+  }
+  .backgroundshadow3 {
+        position: absolute;
+        height: calc(100% - 64px);
+        top: 32px;
+        bottom: 32px;
+        left: calc(50% - 576px);
+        box-shadow: 16px 16px 16px rgba(131, 131, 131, 0.5);
+        border-radius: 16px;
+        background-color: #10465c;
+        width: 264px;
+  }
+  .heading-37 {
+        position: absolute;
+        top: 221px;
+        left: calc(50% - 66.58px);
+        line-height: 32.55px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 133.3px;
+        height: 32.5px;
+  }
+  .link4 {
+        position: absolute;
+        top: 273.55px;
+        left: calc(50% - 65.67px);
+        border-radius: 320px;
+        background-color: #41c885;
+        width: 131.3px;
+        height: 37.8px;
+        font-size: 12.5px;
+  }
+  .input-field-icon {
+        position: absolute;
+        top: 91.39px;
+        left: 101px;
+        width: 64px;
+        height: 64px;
+        overflow: hidden;
+  }
+  .backgroundshadow4 {
+        position: absolute;
+        height: calc(100% - 64px);
+        top: 32px;
+        bottom: 32px;
+        left: calc(50% - 280px);
+        box-shadow: 16px 16px 16px rgba(131, 131, 131, 0.5);
+        border-radius: 16px;
+        background-color: #10465c;
+        width: 264px;
+  }
+  .heading-38 {
+        position: absolute;
+        top: 223px;
+        left: calc(50% - 85.48px);
+        line-height: 32.55px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 171.2px;
+        height: 32.5px;
+  }
+  .link5 {
+        position: absolute;
+        top: 275.55px;
+        left: calc(50% - 65.67px);
+        border-radius: 320px;
+        background-color: #41c885;
+        width: 131.3px;
+        height: 37.8px;
+        font-size: 12.5px;
+  }
+  .reactjs-line-icon {
+        position: absolute;
+        top: 91.39px;
+        left: 103px;
+        width: 64px;
+        height: 64px;
+        overflow: hidden;
+  }
+  .backgroundshadow5 {
+        position: absolute;
+        height: calc(100% - 64px);
+        top: 32px;
+        bottom: 32px;
+        left: calc(50% + 16px);
+        box-shadow: 16px 16px 16px rgba(131, 131, 131, 0.5);
+        border-radius: 16px;
+        background-color: #10465c;
+        width: 264px;
+  }
+  .heading-39 {
+        position: absolute;
+        top: 223px;
+        left: calc(50% - 45.59px);
+        line-height: 32.55px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 91.4px;
+        height: 32.5px;
+  }
+  .sound-module-fill-icon {
+        position: absolute;
+        top: 96.39px;
+        left: 101px;
+        width: 64px;
+        height: 64px;
+        overflow: hidden;
+  }
+  .backgroundshadow6 {
+        position: absolute;
+        height: calc(100% - 64px);
+        top: 32px;
+        bottom: 32px;
+        left: calc(50% + 312px);
+        box-shadow: 16px 16px 16px rgba(131, 131, 131, 0.5);
+        border-radius: 16px;
+        background-color: #10465c;
+        width: 264px;
+        font-size: 20.34px;
+  }
+  .container6,a {color: #FFF;
+
+  }
+  .container6 {
+        position: absolute;
+        top: 2167.69px;
+        left: calc(50% - 680px);
+        width: 1360px;
+        height: 417.3px;
+  }
+  .background2 {
+        position: absolute;
+        height: calc(100% - 2625px);
+        width: 100%;
+        top: 2624.99px;
+        right: 0%;
+        bottom: 0.01px;
+        left: 0%;
+        background-color: #10465c;
+        overflow: hidden;
+  }
+  .banner-1png-icon {
+        position: absolute;
+        top: 2679.99px;
+        left: calc(50% - 556px);
+        width: 190.4px;
+        height: 92.1px;
+        overflow: hidden;
+        object-fit: cover;
+  }
+  .banner-2png-icon {
+        position: absolute;
+        top: 2679.99px;
+        left: calc(50% - 325.61px);
+        width: 190.4px;
+        height: 92.1px;
+        overflow: hidden;
+        object-fit: cover;
+  }
+  .banner-3png-icon {
+        position: absolute;
+        top: 2679.99px;
+        left: calc(50% - 95.22px);
+        width: 190.4px;
+        height: 92.1px;
+        overflow: hidden;
+        object-fit: cover;
+  }
+  .banner-4-1png-icon {
+        position: absolute;
+        top: 2679.99px;
+        left: calc(50% + 135.17px);
+        width: 190.4px;
+        height: 92.1px;
+        overflow: hidden;
+        object-fit: cover;
+  }
+  .accueil-child {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 1920px;
+        height: 1020px;
+        object-fit: cover;
+  }
+  .faites-entrer-votre-container {
+        position: absolute;
+        top: 614px;
+        left: 309px;
+        line-height: 96px;
+        display: flex;
+        align-items: center;
+        width: 997px;
+        height: 296px;
+  }
+  .accueil1 {
+        position: absolute;
+        top: 1.08px;
+        left: 0px;
+        width: 1920px;
+        height: 1020px;
+        text-align: left;
+        font-size: 80px;
+  }
+  .container {
+        position: absolute;
+        width: 100%;
+        top: 134.42px;
+        right: 0px;
+        left: 0px;
+        height: 2832.1px;
+        overflow: hidden;
+        font-size: 21px;
+        color: #fff;
+  }
+  .smart-kids-academy {
+        position: absolute;
+        top: 33px;
+        left: calc(50% - 640px);
+        line-height: 25.5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 451.3px;
+        height: 25.5px;
+  }
+  .link-icon {
+        position: absolute;
+        top: 38px;
+        left: calc(50% + 503.94px);
+        width: 15.8px;
+        height: 19px;
+  }
+  .link-icon1 {
+        position: absolute;
+        top: 38px;
+        left: calc(50% + 539.78px);
+        width: 21.3px;
+        height: 19px;
+  }
+  .link-icon2 {
+        position: absolute;
+        top: 38px;
+        left: calc(50% + 581.06px);
+        width: 22.6px;
+        height: 19px;
+  }
+  .link-icon3 {
+        position: absolute;
+        top: 38px;
+        left: calc(50% + 623.7px);
+        width: 16.3px;
+        height: 19px;
+  }
+  .container7 {
+        position: absolute;
+        top: 0px;
+        left: calc(50% - 680px);
+        width: 1360px;
+        height: 99.5px;
+  }
+  .footer {
+        position: absolute;
+        width: 100%;
+        top: 2966.52px;
+        right: 0px;
+        left: 0px;
+        background-color: #202020;
+        height: 99.5px;
+        font-size: 15px;
+        color: #838383;
+  }
+  .skanehemiahlabcom-by-htmlto {
+        width: 100%;
+        position: relative;
+        background: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), #fff;
+        height: 3066px;
+        overflow-y: auto;
+        text-align: center;
+        font-size: 16px;
+        color: #163269;
+        font-family: Inter;
+  }
+  
+  

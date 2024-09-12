@@ -1,0 +1,679 @@
+
+.menu_logo {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 20px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+ul li a {
+    color: #163269;
+    text-decoration: none;
+}
+
+ul li {
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+ul li a:hover {
+    color: rgb(65, 200, 133);
+}
+
+ul li:nth-child() a {
+    color: rgb(65, 200, 133);
+}
+.logo {
+        width: 12%;
+    }
+    .banner {
+        background-image: linear-gradient(#bdaeae25 20%, rgba(0, 60, 255, 0.267) 50%) , url(./image/enfant\ faisant\ la\ reparation.jpeg);
+        
+        height: 1000px;
+        background-size: cover;
+    }
+    .banner h1 {
+        color:#FFF;
+        font-size: 5vw;
+        font-family: roboto-thin;
+        font-weight: 700;
+        margin-left: 35px ;
+         padding-top: 40%;
+         font-size: 80px;
+         line-height: 96px;
+    }
+
+
+.heading-1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 169.59px);
+    line-height: 50.4px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 339.5px;
+    height: 50.4px;
+}
+.tes-vous-conscient-de {
+    margin: 0;
+}
+.tes-vous-conscient-de-container1 {
+    width: 100%;
+}
+.tes-vous-conscient-de-container {
+    position: absolute;
+    top: 0.12px;
+    left: 0px;
+    font-size: 24px;
+    line-height: 31.2px;
+    font-weight: 600;
+    color: #41c885;
+    display: flex;
+    align-items: center;
+    width: 520.8px;
+    height: 93.6px;
+}
+.image-enfant-ordinateur {
+    position: absolute;
+    top: calc(50% - 172.46px);
+    left: calc(50% - 560px);
+    width: 540px;
+    height: 360.2px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.nous-vivons-container {
+    position: absolute;
+    top: 0px;
+    left: 580px;
+    line-height: 26.4px;
+    display: flex;
+    align-items: center;
+    width: 533.8px;
+    height: 211.2px;
+}
+.cette-transformation-numrique-container {
+    position: absolute;
+    top: 256.7px;
+    left: 580px;
+    line-height: 26.4px;
+    display: flex;
+    align-items: center;
+    width: 540px;
+    height: 316.8px;
+}
+.tes-vous-conscient-de-limport-parent {
+    position: absolute;
+    top: 99.86px;
+    left: 0px;
+    width: 1120px;
+    height: 573.5px;
+    text-align: left;
+    font-size: 16px;
+    color: #7a7a7a;
+}
+.heading-1-smart-kids-academy-parent {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 560px);
+    width: 1120px;
+    height: 673.4px;
+}
+.compares-aux-mthodes-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 26.4px;
+    display: flex;
+    align-items: center;
+    width: 1138px;
+    height: 79.2px;
+}
+.smart-kids-academy-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 31.2px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 538.7px;
+    height: 62.4px;
+}
+.heading-3 {
+    position: absolute;
+    width: calc(100% - 580px);
+    top: 0px;
+    right: 580px;
+    left: 0px;
+    height: 63px;
+}
+.notre-objectif-est-container {
+    position: absolute;
+    top: 82.25px;
+    left: 0px;
+    font-size: 16px;
+    line-height: 26.4px;
+    color: #7a7a7a;
+    display: flex;
+    align-items: center;
+    width: 543.3px;
+    height: 237.6px;
+}
+.image-jeu {
+    position: absolute;
+    top: calc(50% - 202.19px);
+    left: calc(50% + 20px);
+    width: 540px;
+    height: 405px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.heading-3-parent {
+    position: absolute;
+    width: calc(100% - 18px);
+    top: 134.87px;
+    right: 8px;
+    left: 10px;
+    height: 405.6px;
+    font-size: 24px;
+    color: #41c885;
+}
+.compares-aux-mthodes-ducati-parent {
+    position: absolute;
+    top: 755.27px;
+    left: 0px;
+    width: 1138px;
+    height: 540.5px;
+    text-align: left;
+    font-size: 16px;
+    color: #7a7a7a;
+}
+.heading-11 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 175.41px);
+    line-height: 50.4px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 351.1px;
+    height: 50.4px;
+}
+.div {
+    position: absolute;
+    top: 12px;
+    left: calc(50% - 8.55px);
+    line-height: 30px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 17.4px;
+    height: 30px;
+}
+.button {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 32.55px);
+    border-radius: 50px;
+    background-color: #357b7c;
+    width: 65.1px;
+    height: 54px;
+}
+.button-wrapper {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 32.73px);
+    width: 65.1px;
+    height: 54px;
+}
+.ska-course-01-container {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 121.42px);
+    line-height: 31.2px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 243px;
+    height: 156px;
+}
+.heading-31 {
+    position: absolute;
+    width: calc(100% - 0.4px);
+    top: 73.38px;
+    right: 0.4px;
+    left: 0px;
+    height: 156.6px;
+    font-size: 24px;
+    color: #41c885;
+}
+.travers-des-outils-container {
+    position: absolute;
+    top: 249.18px;
+    left: 0px;
+    font-size: 16px;
+    line-height: 26.4px;
+    color: #7a7a7a;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    width: 253px;
+    height: 369.6px;
+}
+.group-div {
+    position: absolute;
+    top: 10px;
+    left: calc(50% - 126.3px);
+    width: 253px;
+    height: 618.8px;
+}
+.overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    border-radius: 200px 200px 0px 0px;
+    background-color: rgba(18, 49, 192, 0.08);
+}
+.overlay-wrapper {
+    position: absolute;
+    height: 100%;
+    width: calc(100% - 867.4px);
+    top: 0px;
+    right: 867.4px;
+    bottom: 0px;
+    left: 0px;
+}
+.button-container {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 32.54px);
+    width: 65.1px;
+    height: 54px;
+}
+.ska-course-02-container {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 119.82px);
+    line-height: 31.2px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 239.8px;
+    height: 124.8px;
+}
+.heading-32 {
+    position: absolute;
+    width: 100%;
+    top: 73.38px;
+    right: 0px;
+    left: 0px;
+    height: 125.4px;
+    font-size: 24px;
+    color: #41c885;
+}
+.laissez-la-curiosit-container {
+    position: absolute;
+    top: 217.99px;
+    left: 0px;
+    font-size: 16px;
+    line-height: 26.4px;
+    color: #7a7a7a;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    width: 234.9px;
+    height: 396px;
+}
+.group-parent1 {
+    position: absolute;
+    top: 10px;
+    left: calc(50% - 121.1px);
+    width: 242.2px;
+    height: 614px;
+}
+.overlay1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    bottom: 0px;
+    left: 0%;
+    border-radius: 200px 200px 0px 0px;
+    background-color: rgba(18, 49, 192, 0.08);
+}
+.overlay-container {
+    position: absolute;
+    height: 100%;
+    width: 23%;
+    top: 0px;
+    right: 51.33%;
+    bottom: 0px;
+    left: 25.67%;
+}
+.ska-course-03-container {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 121.65px);
+    line-height: 31.2px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 243.5px;
+    height: 156px;
+}
+.heading-33 {
+    position: absolute;
+    width: 100%;
+    top: 73.38px;
+    right: 0px;
+    left: 0px;
+    height: 156.6px;
+    font-size: 24px;
+    color: #41c885;
+}
+.donnez-vos-container {
+    position: absolute;
+    top: 249.18px;
+    left: 0px;
+    font-size: 15.25px;
+    line-height: 26.4px;
+    font-family: Inter;
+    color: #6b6b6b;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    width: 251px;
+    height: 369.6px;
+}
+.group-parent2 {
+    position: absolute;
+    top: 10px;
+    left: calc(50% - 126.3px);
+    width: 252.6px;
+    height: 618.8px;
+}
+.overlay-frame {
+    position: absolute;
+    height: 100%;
+    width: calc(100% - 867.4px);
+    top: 0px;
+    right: 292.6px;
+    bottom: 0px;
+    left: 574.8px;
+}
+.button-wrapper1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 31.49px);
+    width: 65.1px;
+    height: 54px;
+}
+.ska-course-04-container {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 98.13px);
+    line-height: 31.2px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 196.4px;
+    height: 156px;
+}
+.heading-34 {
+    position: absolute;
+    width: calc(100% - 32.3px);
+    top: 73.38px;
+    right: 13.3px;
+    left: 19px;
+    height: 156.6px;
+    font-size: 24px;
+    color: #41c885;
+}
+.ce-cours-comble-container {
+    position: absolute;
+    top: 249.18px;
+    left: 0px;
+    font-size: 16px;
+    line-height: 26.4px;
+    color: #7a7a7a;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    width: 250.5px;
+    height: 343.2px;
+}
+.group-parent3 {
+    position: absolute;
+    top: 10px;
+    left: calc(50% - 126.3px);
+    width: 250.5px;
+    height: 592.4px;
+}
+.overlay-wrapper1 {
+    position: absolute;
+    height: 100%;
+    width: calc(100% - 867.4px);
+    top: 0px;
+    right: -0.01px;
+    bottom: 0px;
+    left: 867.41px;
+}
+.group-container {
+    position: absolute;
+    height: calc(100% - 70.6px);
+    width: 100%;
+    top: 70.59px;
+    right: 0px;
+    bottom: 0.01px;
+    left: 0px;
+    font-size: 30px;
+    color: #fff;
+}
+.heading-1-nos-cours-captivan-parent {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 570px);
+    width: 1140px;
+    height: 735.6px;
+}
+.group-wrapper {
+    position: absolute;
+    top: 1325.55px;
+    left: calc(50% - 570px);
+    width: 1140px;
+    height: 735.6px;
+}
+.group-parent {
+    width: 100%;
+    position: relative;
+    height: 2061.1px;
+    text-align: center;
+    font-size: 36px;
+    color: #41c885;
+    font-family: Roboto;
+}
+
+
+.heading-10 {
+    position: absolute;
+    top: -0.7px;
+    left: 20px;
+    font-size: 37px;
+    line-height: 44.4px;
+    display: flex;
+    color: #161616;
+    align-items: center;
+    width: 306.3px;
+    height: 44.4px;
+}
+.inscrivez-les-enfants {
+    position: absolute;
+    top: 74.29px;
+    left: 20px;
+    line-height: 27.2px;
+    display: flex;
+    align-items: center;
+    width: 453.2px;
+    height: 27.2px;
+}
+.accueillir-le-programme {
+    position: absolute;
+    top: 15.9px;
+    left: 51.66px;
+    line-height: 27.2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 226.9px;
+    height: 27.2px;
+}
+.link11 {
+    position: absolute;
+    width: 25.78%;
+    top: 121.58px;
+    right: 72.66%;
+    left: 1.56%;
+    border-radius: 12px;
+    background-color: #41c885;
+    height: 59.2px;
+    text-align: center;
+    color: #fff;
+}
+.devenez-instructeur-dans {
+    position: absolute;
+    top: 74.39px;
+    left: 660px;
+    font-size: 20px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    width: 448.3px;
+    height: 34px;
+}
+.faire-carrire-avec {
+    position: absolute;
+    top: 15.9px;
+    left: 71.59px;
+    line-height: 27.2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 187px;
+    height: 27.2px;
+}
+.link10 {
+    position: absolute;
+    width: 25.78%;
+    top: 128.39px;
+    right: 22.66%;
+    left: 51.56%;
+    border-radius: 12px;
+    background-color: #41c885;
+    height: 59.2px;
+    text-align: center;
+    color: #fff;
+}
+.container10 {
+    width: 100%;
+    position: relative;
+    height: 217.6px;
+    text-align: left;
+    font-size: 16px;
+    color: #6b6b6b;
+    font-family: Inter;
+    margin-top: 20px;
+}
+
+
+.container10 a {
+    color: #FFF;
+}
+
+
+
+.smart-kids-academy {
+    position: absolute;
+    top: 33px;
+    left: calc(50% - 640px);
+    line-height: 25.5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 451.3px;
+    height: 25.5px;
+}
+
+
+.smart-kids-academy :hover{
+    color: #FFF;
+}
+
+
+.link-icon {
+    position: absolute;
+    top: 38px;
+    left: calc(50% + 503.94px);
+    width: 15.8px;
+    height: 19px;
+}
+
+ .link-icon :hover {
+    
+    background-color: #FFF;
+}
+
+.link-icon1 {
+    position: absolute;
+    top: 38px;
+    left: calc(50% + 539.78px);
+    width: 21.3px;
+    height: 19px;
+}
+.link-icon2 {
+    position: absolute;
+    top: 38px;
+    left: calc(50% + 581.06px);
+    width: 22.6px;
+    height: 19px;
+}
+.link-icon3 {
+    position: absolute;
+    top: 38px;
+    left: calc(50% + 623.7px);
+    width: 16.3px;
+    height: 19px;
+}
+    
+
+.container7 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 680px);
+    width: 1360px;
+    height: 99.5px;
+}
+.footer {
+    position: absolute;
+    width: 100%;
+   
+    right: 0px;
+    left: 0px;
+    background-color: #202020;
+    height: 99.5px;
+    font-size: 15px;
+    color: #838383;
+}

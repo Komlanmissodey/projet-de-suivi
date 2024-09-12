@@ -1,0 +1,38 @@
+
+.menu_logo {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 20px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+ul li a {
+    color: #163269;
+    text-decoration: none;
+}
+
+ul li {
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+ul li a:hover {
+    color: rgb(65, 200, 133);
+}
+
+ul li:first-child a {
+     color: rgb(65, 200, 133);
+}
+.logo {
+        width: 12%;
+    }
+    .banner {
+        background-image: linear-gradient(#bdaeae25 20%, rgba(0, 60, 255, 0.267) 50%) , url(./Asset/image/about-title-bg.jpg);
+        
+        height: 1000px;
+        background-size: cover;
+    }
